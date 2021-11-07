@@ -1,0 +1,27 @@
+{
+  "name": "c10-projeto2",
+  "version": "1.0.0",
+  "description": "Projeto 02 do Módulo2 da C10 da BlueEdtech",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreSilvestre21/C10-Projeto2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreSilvestre21/C10-Projeto2/issues"
+  },
+  "homepage": "https://github.com/AlexandreSilvestre21/C10-Projeto2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
